@@ -4,10 +4,15 @@ Welcome to the To-Do Task Management System! This application offers a streamlin
 
 ### Features:
 Secure Login: Access the system through a secure login page to manage tasks securely.
+
 Personalized Task Lists: Each user has their own task list, ensuring privacy and organization.
+
 Task Management: Add, edit, and delete tasks seamlessly to keep track of your to-do list effectively.
+
 Angular Frontend: Enjoy a user-friendly interface designed with Angular for smooth navigation and interaction.
+
 Spring Boot Backend: Benefit from robust backend functionality powered by Spring Boot for efficient task management.
+
 MySQL Database: Store task data securely in a MySQL database, ensuring reliability and data integrity.
 
 ### Deployment:
