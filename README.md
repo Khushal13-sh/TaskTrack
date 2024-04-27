@@ -21,13 +21,3 @@ The application is hosted using Spring Boot and can be accessed at (http://13.23
 ### Motivation:
 The primary goal of this project was to create a user-friendly and efficient task management system. By leveraging frontend technologies like Angular along with backend frameworks like Spring Boot and MySQL, this project aims to provide a reliable solution for individuals to organize their tasks effectively.
 
-### Future Enhancements:
-- Implement additional features such as task prioritization, deadline reminders, and task categories.
-- Enhance UI/UX for improved user experience and accessibility.
-- Integrate advanced authentication and authorization mechanisms to ensure user privacy and security.
-
-Feel free to explore the codebase and contribute to further enhancements!
-
----
-
-Feel free to customize the description to better fit your project's specifics or include any additional details you find relevant!
